@@ -3,6 +3,7 @@ import React from "react";
 import Header from "./components/Header";
 import HeroVideo from "./components/HeroVideo";
 import SecondHeroMessage from "./components/SecondHeroMessage";
+import ThirdComImages from "./components/ThirdComImages";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <HeroVideo />
       <SecondHeroMessage />
+      <ThirdComImages />
     </div>
   );
 }
