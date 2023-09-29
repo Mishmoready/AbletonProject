@@ -4,7 +4,7 @@ export default function SecondHeroMessage() {
   return (
     <div className="heroMessage">
       <p className="HeroContainerMessage">
-        We make Live, Push and Link - unique soft wasre and hard ware for music
+        We make Live, Push and Link - unique software and hard ware for music
         creation and performance. With these products, our community of users
         creates amazing things
       </p>

@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import HeroVideo from "./components/HeroVideo";
 import SecondHeroMessage from "./components/SecondHeroMessage";
 import ThirdComImages from "./components/ThirdComImages";
+import ForthMessages from "./components/ForthMessages";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <HeroVideo />
       <SecondHeroMessage />
       <ThirdComImages />
+      <ForthMessages />
     </div>
   );
 }

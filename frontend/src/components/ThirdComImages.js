@@ -13,7 +13,7 @@ export default function ThirdComImages() {
           alt="Ableton Push Three"
         />
         <img className="SpeakerImage" src={SpeakerImage} alt="Speaker" />
-        <div className="Square"></div>
+        <div className="Square" />
       </div>
     </div>
   );
